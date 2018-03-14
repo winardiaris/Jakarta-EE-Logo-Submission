@@ -16,7 +16,7 @@
    id="svg5040"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="2.svg"
+   sodipodi:docname="JakartaEE.svg"
    inkscape:export-filename="/home/winardiaris/Pictures/logo/jakartaEE/a.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -157,7 +157,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="-291.32029"
+     inkscape:cx="-111.32029"
      inkscape:cy="412.27434"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -175,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -186,8 +186,8 @@
     <g
        id="g7146"
        transform="translate(2.8835508e-6,1.7529026)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-xdpi="90.101379"
+       inkscape:export-ydpi="90.101379">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect6575"
@@ -314,8 +314,8 @@
     <g
        id="g7172"
        transform="translate(2.8835508e-6,1.7529026)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
+       inkscape:export-xdpi="89.957207"
+       inkscape:export-ydpi="89.957207">
       <rect
          y="570.61761"
          x="151.2959"
